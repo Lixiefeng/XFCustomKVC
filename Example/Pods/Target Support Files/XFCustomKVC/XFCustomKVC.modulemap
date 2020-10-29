@@ -1,0 +1,6 @@
+framework module XFCustomKVC {
+  umbrella header "XFCustomKVC-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - XFCustomKVC (0.1.0)
+
+DEPENDENCIES:
+  - XFCustomKVC (from `../`)
+
+EXTERNAL SOURCES:
+  XFCustomKVC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XFCustomKVC: b737d2eea7a25e47ef590ef4a2d1cbf72b4242f0
+
+PODFILE CHECKSUM: a978296cdaf6024e49fb61068562c00daf2fd2a3
+
+COCOAPODS: 1.6.1
